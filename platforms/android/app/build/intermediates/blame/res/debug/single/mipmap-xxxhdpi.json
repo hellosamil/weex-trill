@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Users\\zwwill\\workspace\\dev\\github\\weex-pro\\yanxuan-weex-demo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\Users\\zwwill\\workspace\\dev\\github\\weex-pro\\yanxuan-weex-demo\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\weex\\weexdemo\\yanxuan-weex-demo-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\weex\\weexdemo\\yanxuan-weex-demo-master\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

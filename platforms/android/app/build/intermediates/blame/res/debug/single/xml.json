@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Users\\zwwill\\workspace\\dev\\github\\weex-pro\\yanxuan-weex-demo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "E:\\Users\\zwwill\\workspace\\dev\\github\\weex-pro\\yanxuan-weex-demo\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "E:\\weex\\weexdemo\\yanxuan-weex-demo-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "E:\\weex\\weexdemo\\yanxuan-weex-demo-master\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    }
+]

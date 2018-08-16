@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Users\\zwwill\\workspace\\dev\\github\\weex-pro\\yanxuan-weex-demo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\zwwill\\workspace\\dev\\github\\weex-pro\\yanxuan-weex-demo\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\weex\\weexdemo\\yanxuan-weex-demo-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\weex\\weexdemo\\yanxuan-weex-demo-master\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
